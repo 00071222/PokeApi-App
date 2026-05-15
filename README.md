@@ -7,9 +7,9 @@ Una aplicación móvil interactiva para explorar el universo Pokémon, construid
 A continuación se muestra el funcionamiento principal de la aplicación:
 
 ### 1. Pantalla Principal (Lista y Búsqueda)
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-15 at 1 09 18 AM" src="https://github.com/user-attachments/assets/7e136956-587c-473e-bd11-ed6959cb9f66" />
-> **Contexto:** La vist
-a principal muestra una cuadrícula con scroll infinito de todos los Pokémon disponibles. Incluye una barra de búsqueda optimizada (con *debounce*) que permite filtrar instantáneamente por el nombre del Pokémon o su número de Pokédex.
+<img width="720" height="350" alt="WhatsApp Image 2026-05-15 at 1 09 18 AM" src="https://github.com/user-attachments/assets/7e136956-587c-473e-bd11-ed6959cb9f66" />
+
+> **Contexto:** La vista principal muestra una cuadrícula con scroll infinito de todos los Pokémon disponibles. Incluye una barra de búsqueda optimizada (con *debounce*) que permite filtrar instantáneamente por el nombre del Pokémon o su número de Pokédex.
 
 ### 2. Pantalla de Detalle (Estadísticas)
 ![Detalle de Pokémon](./assets/screenshots/detail.jpg)
