@@ -1,3 +1,4 @@
+
 # 📱 Pokédex App
 
 Una aplicación móvil interactiva para explorar el universo Pokémon, construida con React Native y Expo. Este proyecto consume la [PokeAPI](https://pokeapi.co/) para mostrar información detallada, estadísticas y características de cientos de Pokémon.
@@ -7,16 +8,18 @@ Una aplicación móvil interactiva para explorar el universo Pokémon, construid
 A continuación se muestra el funcionamiento principal de la aplicación:
 
 ### 1. Pantalla Principal (Lista y Búsqueda)
-<img width="300" alt="WhatsApp Image 2026-05-15 at 1 09 18 AM" src="https://github.com/user-attachments/assets/7e136956-587c-473e-bd11-ed6959cb9f66" />
+<img width="300" alt="Lista y Búsqueda" src="https://github.com/user-attachments/assets/7e136956-587c-473e-bd11-ed6959cb9f66" />
 
 > **Contexto:** La vista principal muestra una cuadrícula con scroll infinito de todos los Pokémon disponibles. Incluye una barra de búsqueda optimizada (con *debounce*) que permite filtrar instantáneamente por el nombre del Pokémon o su número de Pokédex.
 
 ### 2. Pantalla de Detalle (Estadísticas)
-![Detalle de Pokémon](./assets/screenshots/detail.jpg)
+<img width="300" alt="Estadísticas" src="https://github.com/user-attachments/assets/a9f68788-5a3a-4b58-8de5-b8c076bb86f6" />
+
 > **Contexto:** Al tocar cualquier tarjeta, el usuario navega a la vista de detalle. Aquí se presentan los *sprites* oficiales, los tipos elementales (ej. Grass, Poison), el peso y las estadísticas base de combate (HP, Attack, Defense, etc.) extraídas en tiempo real de la PokeAPI.
 
 ### 3. Pantalla "Acerca de" (About)
-![Acerca de la App](./assets/screenshots/about.jpg)
+<img width="300" alt="About" src="https://github.com/user-attachments/assets/4a377bdc-31ba-4b80-9630-a901e2b5a72f" />
+
 > **Contexto:** Una pantalla informativa accesible desde la barra de navegación inferior (Tabs). Explica el propósito educativo de la aplicación, el origen de los datos (PokeAPI) y las tecnologías clave utilizadas en el desarrollo.
 
 ---
